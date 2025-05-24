@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Christian Baldon Bantog - Resume</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f9f7f7;
+      color: #4a4a4a;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: #fffafc;
+      box-shadow: 0 0 10px rgba(200, 190, 210, 0.3);
+      border-radius: 8px;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    header img {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 15px;
+      border: 3px solid #d8b4e2;
+    }
+
+    header h1 {
+      margin: 0;
+      font-weight: 700;
+      color: #7a4ea8;
+    }
+
+    section {
+      margin-bottom: 30px;
+    }
+
+    section h2 {
+      font-weight: 600;
+      color: #9c7bc9;
+      border-bottom: 2px solid #d8b4e2;
+      padding-bottom: 5px;
+      margin-bottom: 15px;
+    }
+
+    p, ul {
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    ul {
+      list-style-type: disc;
+      padding-left: 20px;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 14px;
+      color: #a499b4;
+      margin-top: 40px;
+    }
+
+    a {
+      color: #7a4ea8;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <img src="https://i.pravatar.cc/120?u=christianbantog" alt="Christian Baldon Bantog Photo" />
+      <h1>Christian Baldon Bantog</h1>
+    </header>
+
+    <section id="about">
+      <h2>About Me</h2>
+      <p>
+        I am a motivated student eager to develop my skills and gain practical experience. Passionate about learning new technologies an
